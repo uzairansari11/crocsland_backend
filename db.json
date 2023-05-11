@@ -1127,7 +1127,14 @@
 		}
 	],
 	"cart": [],
-	"users": [],
+	"users": [
+		{
+			"id": 1,
+			"username": "uzair ansari",
+			"userEmail": "uzairansari532@gmail.com",
+			"password": "uzair12345"
+		}
+	],
 	"wishlists": [],
 	"orders": []
 }
